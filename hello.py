@@ -1,1 +1,1 @@
-print('teste'.upper())
+print("teste".upper())
